@@ -1,0 +1,15 @@
+.containerContentRegister {
+    padding: 64px;
+}
+
+.containerHeaderRegister {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px 32px;
+}
+
+.titleRegister {
+    font-size: 32px;
+    color: #000000;
+}

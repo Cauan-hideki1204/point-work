@@ -1,0 +1,16 @@
+.containerLogout {
+    margin-top: 180px;
+}
+
+.iconLogout {
+    margin-left: 6px;
+}
+
+.buttonLogout {
+    background-color: #08979c;
+    color: white;
+    border: 0px;
+    font-size: 16px;
+    margin-left: 62px;
+    cursor: pointer;
+}

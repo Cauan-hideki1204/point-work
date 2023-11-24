@@ -1,0 +1,117 @@
+.logoImage {
+  width: 200px;
+  height: 100px;
+}
+
+.inputEmail {
+  margin-bottom: 8px;
+}
+
+.containerLogin {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  background-image: url("../../assets/bg-layer.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position-y: 50%;
+  margin-top: 120px;
+
+  img {
+      margin-bottom: 80.5px;
+      margin-top: -139px;
+  }
+
+  p {
+      color: #08979c;
+      text-align: center;
+      font-size: 16px;
+      line-height: 24px;
+      font-weight: 500;
+      margin-bottom: 22px;
+  }
+}
+
+.formContainer {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  max-width: 360px;
+  margin-top: 16px;
+}
+
+.input {
+  border: 1px solid #6a6c6d;
+  padding: 4px;
+  border-radius: 8px;
+  margin-bottom: 4px;
+}
+
+.invalidInput {
+  border: 1px solid red;
+  padding: 4px;
+  border-radius: 8px;
+  margin-bottom: 4px;
+  color: red;
+}
+
+.textInvalidEmail {
+  font-size: 14px;
+  margin-left: 4px;
+  color: red;
+  margin-bottom: 12px;
+}
+
+.textLogin {
+  color: #08979c;
+}
+
+.prefixIcon {
+  color: #08979c;
+}
+
+.checkboxContainer {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 15px;
+}
+
+.link {
+  cursor: pointer;
+  background-color: transparent;
+  border: none;
+  margin-top: 18px;
+  color: #08979c
+}
+
+.footerTitle {
+  bottom: 5px;
+  position: fixed;
+
+  p {
+      color: #33373A;
+      font-size: 14px;
+      text-align: center;
+  }
+}
+
+.buttonSubmit {
+  height: 30px;
+  background-color: #08979c;
+  border: none;
+  color: white;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.buttonSubmitDisabled {
+  height: 30px;
+  background-color: #b0b0b0;
+  border: none;
+  color: black;
+  border-radius: 4px;
+}

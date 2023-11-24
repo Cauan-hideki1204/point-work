@@ -1,0 +1,15 @@
+.containerContent {
+    padding: 64px;
+}
+
+.containerHeaderPaySlip {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px 32px;
+}
+
+.titlePaySlip {
+    font-size: 32px;
+    color: #000000;
+}

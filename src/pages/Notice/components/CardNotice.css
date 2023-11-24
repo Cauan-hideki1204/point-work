@@ -1,0 +1,20 @@
+.containerCard {
+    margin-top: 20px;
+    border: 1px solid #7a7a7a;
+    border-radius: 8px;
+    width: 500px;
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 8px;
+}
+
+.titleCard {
+    font-size: 16px;
+    margin-bottom: 4px;
+}
+
+.messageCard {
+    font-size: 14px;
+}

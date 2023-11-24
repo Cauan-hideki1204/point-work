@@ -1,0 +1,36 @@
+.containerContentCreate {
+    padding: 64px;
+    display: flex;
+    flex-direction: column;
+}
+
+.containerHeaderCreateNotice {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px 32px;
+}
+
+.titleCreateNotice {
+    font-size: 32px;
+    color: #000000;
+}
+
+.buttonSubmitCreateNotice {
+    margin-top: 16px;
+    height: 30px;
+    width: 200px;
+    background-color: #08979c;
+    border: none;
+    color: white;
+    border-radius: 4px;
+}
+
+.inputTitleCreateNotice {
+    border: 1px solid #6a6c6d;
+    padding: 4px;
+    border-radius: 8px;
+    margin-bottom: 4px;
+    width: 350px;
+    margin-bottom: 8px;
+}

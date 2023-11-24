@@ -1,0 +1,23 @@
+.containerContent {
+    padding: 64px;
+}
+
+.containerHeaderNotice {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px 32px;
+}
+
+.titleNotice {
+    font-size: 32px;
+    color: #000000;
+}
+
+.buttonAddNotice {
+    border-radius: 4px;
+    border: 1px solid #f3f3f3;
+    padding: 8px;
+    background-color: #08979c;
+    color: white;
+}

@@ -1,0 +1,53 @@
+.imageLogo {
+    width: 300px;
+    height: 200px;
+}
+
+.containerHome {
+    text-align: center;
+    margin-top: 18px;
+}
+
+.textWelcome {
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 22px;
+    margin-top: 44px;
+    margin-bottom: 56px;
+}
+
+.textHelp {
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 22px;
+    margin-bottom: 32px;
+}
+
+.shortcutsContainer {
+    display: flex;
+    column-gap: 165px;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.icon {
+    color: #ffffff;
+}
+
+.button {
+    border: none;
+    border-radius: 100%;
+    background-color: #08979c;
+    width: 40px;
+    height: 40px;
+    cursor: pointer;
+}
+
+.title {
+    margin-top: 13px;
+    font-size: 14px;
+    line-height: 22px;
+    text-align: center;
+    color: #000000;
+}
+
